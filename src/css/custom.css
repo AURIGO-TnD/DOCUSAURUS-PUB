@@ -103,7 +103,7 @@ list-style-type: numeric;
 	margin-top: 4px !important;
 }
 .container h1 span.ph, 
-header h1 {
+h1 {
   font-size: 20px !important;
   color: #2d9ed0;
 }
